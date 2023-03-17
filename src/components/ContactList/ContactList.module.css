@@ -1,0 +1,39 @@
+.contactList {
+  margin-left: 60px;
+  margin-bottom: 40px;
+}
+
+.contactItem {
+  margin-bottom: 10px;
+}
+
+.contactTextBlock {
+  display: block;
+  width: 200px;
+  padding: 10px 0;
+  background-color: #f8f8f8;
+}
+
+.contactText {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.contactBtn {
+  display: block;
+  width: 200px;
+  font-weight: 700;
+  padding: 10px;
+  /* height: 30px; */
+  background-color: white;
+  border: solid 1px #ef5350;
+  color: #ef5350;
+  /* border: none; */
+}
+
+.contactBtn:hover {
+  background-color: #ef5350;
+  color: white;
+  border: solid 1px #ef5350;
+}

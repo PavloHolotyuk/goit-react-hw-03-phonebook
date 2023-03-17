@@ -1,0 +1,19 @@
+.filterLabel {
+  display: block;
+  margin-left: 60px;
+  /* border-bottom: 1px solid #000;
+   */
+  margin-bottom: 20px;
+}
+
+.filterText {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.filterInput {
+  display: block;
+  width: 200px;
+  height: 30px;
+}
